@@ -1,0 +1,4 @@
+NLP is a field of AI.
+Word embeddings help represent words in continuous space.
+Neural networks are powerful tools for language modeling.
+NLP and machine learning are closely related fields.
